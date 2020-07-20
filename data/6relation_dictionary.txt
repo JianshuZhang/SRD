@@ -1,0 +1,6 @@
+Right	0
+Sup	1
+Inside	2
+Above	3
+Below	4
+Sub	5
